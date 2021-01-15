@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+node_modules/
+*.env
+.DS_Store
+reports
+screenshots
+postmanResults/
+allure
+.env
+visualTest/backstop_data/bitmaps_test
+visualTest/backstop_data/html_report
+visualTest/backstop_data/json_report
+utils/slack/*.txt
+APITesting/envVariables/*.environment.json
